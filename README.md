@@ -44,8 +44,8 @@
 
 ## ⚙️ Yêu cầu hệ thống
 
-**Hệ điều hành:** Win 10/11 
-**Quyền hạn:** Administrator (Quản trị viên)
+- **Hệ điều hành:** Win 10/11
+- **Quyền hạn:** Administrator (Quản trị viên)
 
 ---
 

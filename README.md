@@ -34,7 +34,7 @@
 
 ### 2. 🔌 Tạo USB Boot
 - **Hỗ trợ Dual-Boot UEFI & Legacy**
-- **Tích hợp Driver ổ cứng tự động**
+- **Tích hợp Driver Intel RST/VMD & AMD RAID**
 - **Tích hợp Driver máy hiện tại**
 - **Tích hợp File/Folder**
 - **Tích hợp tùy chọn người dùng**

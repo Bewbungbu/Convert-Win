@@ -58,7 +58,7 @@
 
 ### 2. Tạo USB Boot
 1. Chọn ổ đĩa USB và chọn file ISO Win 10/11.
-2. Tích chọn các tùy chọn (Không chọn có bỏ qua).
+2. Tích chọn các tùy chọn (Không chọn có thể bỏ qua).
 3. Nhấn **🚀 Bắt đầu tạo Boot**.
 
 ---
@@ -78,7 +78,7 @@ Tải và chạy ConvertWin.exe mới nhất  - Không cần cài đặt - Tại
 
 ## ⚠️ Cảnh báo an toàn
 
-- Sao lưu dữ liệu trước khi thao tác tạo USB Boot (thao tác tạo USB Boot sẽ tự động xóa toàn bộ dữ liệu hiện có trên thiết được chọn).
+- Sao lưu dữ liệu trước khi thao tác tạo USB Boot (thao tác tạo USB Boot sẽ tự động xóa toàn bộ dữ liệu hiện có trên thiết bị được chọn).
 - Tuyệt đối không chuyển đổi bằng phương pháp **Chạy ISO** khi đang bật BitLocker.
 - Kiểm tra kỹ màn hình Setup (Nếu chạy ISO): Khi bộ cài Win hiện lên, tại bước Ready to install, hãy đảm bảo dòng chữ **Keep personal files and apps** xuất hiện để không rủi ro mất dữ liệu.
 
